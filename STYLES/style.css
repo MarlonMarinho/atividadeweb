@@ -1,0 +1,52 @@
+@import url(background.css);
+
+h1 {
+    font-family: "Days One", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    color: rgb(236, 221, 0);
+    font-size: 90px;
+    text-align: center;
+    padding: 180px;
+    text-transform: uppercase;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+
+}
+
+h2 {
+    font-family: "Days One", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    color: rgb(255, 255, 255);
+    text-align:center;
+    font-size: 30px;
+    padding: 20px;
+    font-weight: 100%;
+
+}
+
+h2 {
+    background-color: rgba(255, 0, 0, 0.363);
+    text-transform: uppercase;
+    position: absolute;
+    inset: 0;
+    width: 100%;
+    height: 5%;
+    box-shadow: 1px 4px 50px rgba(255, 0, 0, 0.63);
+    margin: 0;
+}
+
+.summary {
+    box-shadow: 0px -16px 36px 32px rgba(0,0,0,1);
+    padding-top:40px ;
+    font-family: "Days One", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    color: rgb(255, 255, 255);
+    font-size: 40px;
+}
+
+body  {
+    background-color: black;
+}
+
